@@ -1,0 +1,14 @@
+.btr{
+    height: 500px;
+    border: 1px solid;
+}
+.btr1{
+    height: 30px;
+    background-color: green;
+    border: 1px solid;
+}
+.btr2{
+    height: 30px;
+  
+    border: 1px solid green;
+}
